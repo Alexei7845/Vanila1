@@ -1,0 +1,26 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "titulo": "Cafe",
+        "imageUrl": "https://picsum.photos/id/56/600"
+    },
+    {
+        "precio": 100,
+        "id": 2,
+        "titulo": "Jugo",
+        "imageUrl": "https://picsum.photos/id/6/600"
+    },
+    {
+        "precio": 250,
+        "id": 3,
+        "titulo": "atole",
+        "imageUrl": "https://picsum.photos/id/24/600"
+    },
+    {
+        "precio": 50,
+        "id": 4,
+        "titulo": "Lapiz",
+        "imageUrl": "https://picsum.photos/id/39/600"
+    }
+]
